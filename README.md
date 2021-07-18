@@ -1,4 +1,4 @@
-# PasswordEncryption-php
+# Password Encryption-php
 This is a Basic sign up and log in system which Encrypts and decrypts user passwords to and from the database withing PHP
 
 The Encrpytion methods used are:
